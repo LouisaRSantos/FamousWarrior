@@ -1,0 +1,17 @@
+C:\Users\Santos\Documents\trytry\trytry\bin\Debug\net6.0-windows\trytry.exe
+C:\Users\Santos\Documents\trytry\trytry\bin\Debug\net6.0-windows\trytry.deps.json
+C:\Users\Santos\Documents\trytry\trytry\bin\Debug\net6.0-windows\trytry.runtimeconfig.json
+C:\Users\Santos\Documents\trytry\trytry\bin\Debug\net6.0-windows\trytry.dll
+C:\Users\Santos\Documents\trytry\trytry\bin\Debug\net6.0-windows\trytry.pdb
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\trytry.csproj.AssemblyReference.cache
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\trytry.Form1.resources
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\trytry.csproj.GenerateResource.cache
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\trytry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\trytry.AssemblyInfoInputs.cache
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\trytry.AssemblyInfo.cs
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\trytry.csproj.CoreCompileInputs.cache
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\trytry.dll
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\refint\trytry.dll
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\trytry.pdb
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\trytry.genruntimeconfig.cache
+C:\Users\Santos\Documents\trytry\trytry\obj\Debug\net6.0-windows\ref\trytry.dll
